@@ -1,4 +1,3 @@
-# AB-Testing---SQL-for-analysis
 # AB Testing - SQL for Analysis
 ### SQL-запит для аналізу А/В тесту
 
